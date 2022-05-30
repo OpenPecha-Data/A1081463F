@@ -1,0 +1,22 @@
+segment_sources:
+  I7B42478B:
+    type: origin_type
+    relation: translation
+    language: en
+  I06240925:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5688a41eac224bfdae89a367034e29dc:
+    I7B42478B: 4caf7ec0b10740249ba342868e9c2012
+    I06240925: 3cce15901dca419abbd243c6341adca3
+  a5207f93de994192936434a018513700:
+    I7B42478B: 5d443c278b4141bdb392dccfe64c36ca
+    I06240925: 412480b22dce407f98acedeee01253ee
+  6343d2f1d307480290258b0835943f42:
+    I7B42478B: 685e8fb5b5564ccb970f5ca098404abc
+    I06240925: 6da6baed7576414fbe53bc4f39d7af13
+  1246f83e2e3a4c7c93d36011e5cbcee7:
+    I7B42478B: 6026daa6325b4b669af8978fa1249d89
+    I06240925: e5dfe8fb504a4799bdb42ac50f1df1f9
